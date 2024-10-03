@@ -26,3 +26,7 @@ Create a bar chart showcasing the bottom 5 worst-selling pizzas based on Revenue
 
 ![image](https://github.com/user-attachments/assets/4b4e7b57-77d7-4970-8b02-5934e33aef60)
 
+
+![image](https://github.com/user-attachments/assets/9b3e30ba-5f00-47a0-8332-fa221ee7d5ed)
+
+
